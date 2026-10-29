@@ -1,0 +1,6 @@
+{
+  "lowercase": true,
+  "clean_wiki_headers": true,
+  "replace_wiki_hyphens": true,
+  "split_punctuation": true
+}
